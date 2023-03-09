@@ -1,0 +1,1 @@
+C:\_src\mongo\bin\mongod.exe --dbpath="C:\_src\ws-qua-man\db"
